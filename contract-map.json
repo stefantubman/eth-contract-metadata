@@ -1,3 +1,10 @@
+"0xeccc2cd8c32ee3932983de76276905b2d2b12c1a": {
+  "name": "ShwayComs Euro",
+  "logo": "icon.png",
+  "symbol": "SHWAY",
+  "decimals": 2
+}
+
 { 
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
